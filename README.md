@@ -12,4 +12,4 @@ If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https
 
 ### Getting Started: Flutter
 
-Created as a part of assignment for SDP.
+Created as a part of assignment for SDP. Snap attached here[https://github.com/Adi142857/Basic_widgets/blob/master/Ig.PNG]
